@@ -1,7 +1,7 @@
 {
-  "code": "11",
-  "ver": "0.0101",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br9/release-0.0101.apk",
-  "whatsNew": ["Android 10 download issue resolved. (only for android 10 users goto to https://github.com/Tu2l/AnimeBoya/releases/ and download version 0.0101)"],
+  "code": "17",
+  "ver": "0.0104",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0104.apk",
+  "whatsNew": ["Update the app to continue watching anime. Direct link and many more features are added. visit AnimeBoya Github release page to view all newly added features."],
   "immediateUpdate":"false"
 }
