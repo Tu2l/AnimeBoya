@@ -20,13 +20,14 @@
 
 [masterRelease-0.0104.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0104.apk) 4.42 MB
 
+<br>
 
 ![Anime Boya feature art](https://github.com/Tu2l/AnimeBoya/blob/master/banner.png)
 
 # Anime Boya: *Anime watching and downloading android app*
 
 Free Anime streaming and anime downloading app developed by an Otaku (Anime fan) for other otakus. This app eliminates all the hassle and efforts required to watch your favorite Anime. Download any Anime just by clicking on download button and select your preferred quality.
-<div alignment="center">
+<div  style="width:auto; margin:0 auto;">
   <img src="screen_1.png" data-canonical-src="screen_1"  width="250" height="500" /> <img src="screen_2.png" data-canonical-src="screen_2"  width="250" height="500" />
   <img src="screen_3.png" data-canonical-src="screen_3"  width="250" height="500" /> <img src="screen_4.png" data-canonical-src="screen_4"  width="250" height="500" />
   <img src="screen_5.png" data-canonical-src="screen_5"  width="250" height="500" /> <img src="screen_6.png" data-canonical-src="screen_6"  width="250" height="500" />
