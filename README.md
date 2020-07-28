@@ -4,12 +4,9 @@
 
 Free Anime streaming and anime downloading app developed by an Otaku (Anime fan) for other otakus. This app eliminates all the hassle and efforts required to watch your favorite Anime. Download any Anime just by clicking on download button and select your preferred quality.
 
-<img src="screen_1.png" data-canonical-src="screen_1" width="200" height="400" /><img src="screen_2.png" data-canonical-src="screen_2" width="200" height="400" />
-<img src="screen_3.png" data-canonical-src="screen_3" width="200" height="400" />
-<img src="screen_4.png" data-canonical-src="screen_4" width="200" height="400" />
-<img src="screen_5.png" data-canonical-src="screen_5" width="200" height="400" />
-<img src="screen_6.png" data-canonical-src="screen_6" width="200" height="400" />
-
+<img src="screen_1.png" data-canonical-src="screen_1" width="200" height="400" /> <img src="screen_2.png" data-canonical-src="screen_2" width="200" height="400" />
+<img src="screen_3.png" data-canonical-src="screen_3" width="200" height="400" /> <img src="screen_4.png" data-canonical-src="screen_4" width="200" height="400" />
+<img src="screen_5.png" data-canonical-src="screen_5" width="200" height="400" /> <img src="screen_6.png" data-canonical-src="screen_6" width="200" height="400" />
 
 ## Download Anime
 
