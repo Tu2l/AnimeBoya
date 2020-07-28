@@ -1,7 +1,12 @@
+---
+
+
+---
+
 <p><img src="https://github.com/Tu2l/AnimeBoya/blob/master/banner.png" alt="Anime Boya feature art"></p>
 <h1 id="anime-boya-anime-watching-and-downloading-android-app">Anime Boya: <em>Anime watching and downloading android app</em></h1>
 <p>Free Anime streaming and anime downloading app developed by an Otaku (Anime fan) for other otakus. This app eliminates all the hassle and efforts required to watch your favorite Anime. Download any Anime just by clicking on download button and select your preferred quality.<br>
-|![anime boya screen1]("https://github.com/Tu2l/AnimeBoya/blob/master/screen_2.png" alt="anime boya screen2| width=200)|  | <img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_2.png" alt="anime boya screen2"><br>
+|![anime boya screen1](<a href="https://github.com/Tu2l/AnimeBoya/blob/master/screen_1.png">https://github.com/Tu2l/AnimeBoya/blob/master/screen_1.png</a> | width=200)|  | <img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_2.png" alt="anime boya screen2"><br>
 |-<img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_3.png" alt="anime boya screen3">|<img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_4.png" alt="anime boya screen4">|<br>
 |  <img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_5.png" alt="anime boya screen5">| <img src="https://github.com/Tu2l/AnimeBoya/blob/master/screen_6.png" alt="anime boya screen6"> |</p>
 <h2 id="download-anime">Download Anime</h2>
