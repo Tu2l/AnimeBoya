@@ -3,9 +3,8 @@
 # Anime Boya: *Anime watching and downloading android app*
 
 Free Anime streaming and anime downloading app developed by an Otaku (Anime fan) for other otakus. This app eliminates all the hassle and efforts required to watch your favorite Anime. Download any Anime just by clicking on download button and select your preferred quality.
-|![anime boya screen1](screen_1.png){ width=50% }|  | ![anime boya screen2](https://github.com/Tu2l/AnimeBoya/blob/master/screen_2.png)
-|-![anime boya screen3](https://github.com/Tu2l/AnimeBoya/blob/master/screen_3.png)|![anime boya screen4](https://github.com/Tu2l/AnimeBoya/blob/master/screen_4.png)|
-|![anime boya screen5](https://github.com/Tu2l/AnimeBoya/blob/master/screen_5.png)| ![anime boya screen6](https://github.com/Tu2l/AnimeBoya/blob/master/screen_6.png) |
+
+<img src="screen_1.png" data-canonical-src="screen_1" width="200" height="400" />
 
 
 ## Download Anime
