@@ -1,12 +1,36 @@
+**UPDATE:** *ver 0.0104 beta 10*
+
+**Icon designed by The Wise Coconut (Discord Admin)**
+**List of added features**
+
+-   New App Icon
+-   Light Mode + Dark Mode
+-   MyAnimeList and AniList syncing
+-   Settings
+-   Custom Download location chooser
+-   Local bookmarks pinning in home screen
+-   External player support
+-   Episode auto resume from last position
+-   Fullscreen toggle
+-   Auto play next episode
+-   Hide downloads from media scanner
+-   Chinese Anime Section
+-   Anime Schedules
+-   Anime list by alphabetical order
+
+[masterRelease-0.0104.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0104.apk) 4.42 MB
+
+
 ![Anime Boya feature art](https://github.com/Tu2l/AnimeBoya/blob/master/banner.png)
 
 # Anime Boya: *Anime watching and downloading android app*
 
 Free Anime streaming and anime downloading app developed by an Otaku (Anime fan) for other otakus. This app eliminates all the hassle and efforts required to watch your favorite Anime. Download any Anime just by clicking on download button and select your preferred quality.
-
-<img src="screen_1.png" data-canonical-src="screen_1"  width="250" height="500" /> <img src="screen_2.png" data-canonical-src="screen_2"  width="250" height="500" />
-<img src="screen_3.png" data-canonical-src="screen_3"  width="250" height="500" /> <img src="screen_4.png" data-canonical-src="screen_4"  width="250" height="500" />
-<img src="screen_5.png" data-canonical-src="screen_5"  width="250" height="500" /> <img src="screen_6.png" data-canonical-src="screen_6"  width="250" height="500" />
+<div alignment="center">
+  <img src="screen_1.png" data-canonical-src="screen_1"  width="250" height="500" /> <img src="screen_2.png" data-canonical-src="screen_2"  width="250" height="500" />
+  <img src="screen_3.png" data-canonical-src="screen_3"  width="250" height="500" /> <img src="screen_4.png" data-canonical-src="screen_4"  width="250" height="500" />
+  <img src="screen_5.png" data-canonical-src="screen_5"  width="250" height="500" /> <img src="screen_6.png" data-canonical-src="screen_6"  width="250" height="500" />
+</div>
 
 ## Download Anime
 
@@ -49,27 +73,7 @@ You can:
 
 **Many more other features are implemented and will be implemented in the upcoming updates.**
 
-**UPDATE:** *ver 0.0104 beta 10*
 
-**Icon designed by The Wise Coconut (Discord Admin)**
-**List of added features**
-
--   New App Icon
--   Light Mode + Dark Mode
--   MyAnimeList and AniList syncing
--   Settings
--   Custom Download location chooser
--   Local bookmarks pinning in home screen
--   External player support
--   Episode auto resume from last position
--   Fullscreen toggle
--   Auto play next episode
--   Hide downloads from media scanner
--   Chinese Anime Section
--   Anime Schedules
--   Anime list by alphabetical order
-
-[masterRelease-0.0104.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0104.apk) 4.42 MB
 
 [Download page](https://github.com/Tu2l/AnimeBoya/releases/latest)
 
