@@ -1,6 +1,12 @@
-**UPDATE:** *ver 0.0104 beta 10*
+**UPDATE**
+
+**IMMEDIATE UPDATE FOR INDIANS v 0.0105**
+**Install version 0.0105**
+
+A New Source is added. Now switch between sources easily by opening the left drawer.
 
 **Icon designed by The Wise Coconut (Discord Admin)**
+
 **List of added features**
 
 -   New App Icon
@@ -18,7 +24,9 @@
 -   Anime Schedules
 -   Anime list by alphabetical order
 
-[masterRelease-0.0104.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0104.apk) 4.42 MB
+
+[masterRelease-0.0105.latest.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0105.latest.apk) 4.49 MB
+
 
 <br>
 
