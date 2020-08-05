@@ -1,7 +1,7 @@
 {
-  "code": "18",
-  "ver": "0.0105",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0105.latest.apk",
-  "whatsNew": ["Immediate update for Indian users due to shudden ban of anime sources."],
-  "immediateUpdate":"true"
+  "code": "19",
+  "ver": "0.0106",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0106.apk",
+  "whatsNew": ["More quality selection added. Local bookmark bugs fixed. IF AUTO UPDATE IS NOTWORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "immediateUpdate":"false"
 }
