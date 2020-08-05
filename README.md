@@ -1,11 +1,10 @@
 **UPDATE**
 
-**IMMEDIATE UPDATE FOR INDIANS v 0.0105**
-**Install version 0.0105**
+**BUGS FIXED UPDATE v 0.0106**
+**Install version 0.0106**
 
-A New Source is added. Now switch between sources easily by opening the left drawer.
-
-**Icon designed by The Wise Coconut (Discord Admin)**
+**More Quality selection option added**
+**Bugs related to local bookmarks fixed**
 
 **List of added features**
 
@@ -25,7 +24,7 @@ A New Source is added. Now switch between sources easily by opening the left dra
 -   Anime list by alphabetical order
 
 
-[masterRelease-0.0105.latest.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0105.latest.apk) 4.49 MB
+[masterRelease-0.0106.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0106.apk) 4.49 MB
 
 
 <br>
