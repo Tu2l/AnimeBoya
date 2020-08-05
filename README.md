@@ -1,10 +1,9 @@
 **UPDATE**
 
 **BUGS FIXED UPDATE v 0.0106**
-**Install version 0.0106**
-
-**More Quality selection option added**
-**Bugs related to local bookmarks fixed**
+* **Install version 0.0106**
+* **More Quality selection option added**
+* **Bugs related to local bookmarks fixed**
 
 **List of added features**
 
