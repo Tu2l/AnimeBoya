@@ -1,6 +1,6 @@
 **UPDATE**
 
-**BUGS FIXED UPDATE v 0.0107**
+**BUGS FIX UPDATE v 0.0107**
 
    <a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0107.apk"><b> DOWNLOAD APK (4.49 MB)</b></a>
 
