@@ -1,9 +1,12 @@
 **UPDATE**
 
-**BUGS FIXED UPDATE v 0.0106**
-* **Install version 0.0106**
-* **More Quality selection option added**
-* **Bugs related to local bookmarks fixed**
+**BUGS FIXED UPDATE v 0.0107**
+
+   <a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0107.apk"><b> DOWNLOAD APK (4.49 MB)</b></a>
+
+-  Source 1 bugs fixed
+-  More Quality selection option added
+-  Bugs related to local bookmarks fixed
 
 **List of added features**
 
@@ -21,9 +24,6 @@
 -   Chinese Anime Section
 -   Anime Schedules
 -   Anime list by alphabetical order
-
-
-[masterRelease-0.0106.apk](https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0106.apk) 4.49 MB
 
 
 <br>
