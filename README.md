@@ -1,12 +1,25 @@
-**UPDATE**
+<h2><b>UPDATE</b></h2>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0108.apk"><b> DOWNLOAD APK</b></a>
+<p>version 0.0108</p>
+<ul>
+    <li>Announcement system added</li>
+    <li>ChangeLog added</li>
+    <li>Video links fixed</li>
+    <li>Minor bugs fixed</li>
+    <li>Long click on episode will reset the completed status</li>
+    <li>Landscape support added (might crash sometime)</li>
+    <li>All the direct links are downloaded using android's builtin downloader</li>
+</ul>
 
-**BUGS FIX UPDATE v 0.0107**
+<p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
+<p>Follow us on</p>
+<ul>
+    <li><a href="https://facebook.com/animeboya"><b>Facebook</b></a></li>
+    <li><a href="https://instagram.com/anime_boya"><b>Instagram</b></a></li>
+    <li><a href="https://discord.gg/5kJ9SXC"><b>Discord</b></a></li>
+    <li><a href="https://reddit.com/r/animeboya"><b>Reddit</b></a></li>
+</ul>
 
-   <a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0107.apk"><b> DOWNLOAD APK (4.49 MB)</b></a>
-
--  Source 1 bugs fixed
--  More Quality selection option added
--  Bugs related to local bookmarks fixed
 
 **List of added features**
 
