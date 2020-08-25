@@ -1,7 +1,7 @@
 {
-  "code": "20",
-  "ver": "0.0107",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0107.apk",
-  "whatsNew": ["Source 1 bugs fixed. IF AUTO UPDATE IS NOTWORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "code": "21",
+  "ver": "0.0108",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0108.apk",
+  "whatsNew": ["Episodes links fixed and minor changes. IF AUTO UPDATE IS NOTWORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
   "immediateUpdate":"false"
 }
