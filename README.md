@@ -1,14 +1,9 @@
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0108.apk"><b> DOWNLOAD APK</b></a>
-<p>version 0.0108</p>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0109.apk"><b> DOWNLOAD APK</b></a>
+<p>version 0.0109</p>
 <ul>
-    <li>Announcement system added</li>
-    <li>ChangeLog added</li>
-    <li>Video links fixed</li>
+    <li>Source 1 random anime not opening fixed</li>
     <li>Minor bugs fixed</li>
-    <li>Long click on episode will reset the completed status</li>
-    <li>Landscape support added (might crash sometime)</li>
-    <li>All the direct links are downloaded using android's builtin downloader</li>
 </ul>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
