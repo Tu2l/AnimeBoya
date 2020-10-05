@@ -1,9 +1,26 @@
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br10/masterRelease-0.0109.apk"><b> DOWNLOAD APK</b></a>
-<p>version 0.0109</p>
+<image src="https://github.com/Tu2l/AnimeBoya/blob/master/App%20icon%202.png" width=100 alt="animeboya">
+<b>Icon designed by The Wise Coconut (Discord Admin)</b>
+
+<h2><b>UPDATE</b></h2>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.02.apk"><b> DOWNLOAD APK</b></a>
+
+<strong>Sorry for being late.</strong>
+<b>Gomen'nasai</b>
+<p>version 0.02</p>
 <ul>
-    <li>Source 1 random anime not opening fixed</li>
-    <li>Minor bugs fixed</li>
+    <li>A new Download System is added (Segmented downloads are not supported anymore)</li>
+    <li>Splash Screen redesigned</li>
+    <li>A new Source is added (Source 3), sometimes source 3 can be unstable but the source is very much faster than the other sources</li>
+    <li>SIMKL support added</li>
+    <li>Anime Internet Radio added</li>
+    <li>Support page added</li>
+    <li>SDCard support added (but there are some limitations)</li>
+    <li>New Update system added</li>
+    <li>VideoPlayback speed can be changed now</li>
+    <li>An Opening Skip (1:30 will be skipped) button is added</li>
+    <li>External downloader support added (Go to download settings to turn on)</li>
+    <li>All the newly watched episodes will be automatically synced</li>
 </ul>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
@@ -14,24 +31,6 @@
     <li><a href="https://discord.gg/5kJ9SXC"><b>Discord</b></a></li>
     <li><a href="https://reddit.com/r/animeboya"><b>Reddit</b></a></li>
 </ul>
-
-
-**List of added features**
-
--   New App Icon
--   Light Mode + Dark Mode
--   MyAnimeList and AniList syncing
--   Settings
--   Custom Download location chooser
--   Local bookmarks pinning in home screen
--   External player support
--   Episode auto resume from last position
--   Fullscreen toggle
--   Auto play next episode
--   Hide downloads from media scanner
--   Chinese Anime Section
--   Anime Schedules
--   Anime list by alphabetical order
 
 
 <br>
