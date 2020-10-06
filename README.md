@@ -3,10 +3,14 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.02.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.021.apk"><b> DOWNLOAD APK</b></a>
 
 <strong>Sorry for being late.</strong>
 <b>Gomen'nasai</b>
+<p>version 0.021</p>
+<ul>
+    <li>Android 10 download bug fixed (Android 10 and above users will not be able to change default download location anymore)</li>
+</ul>
 <p>version 0.02</p>
 <ul>
     <li>A new Download System is added (Segmented downloads are not supported anymore)</li>
