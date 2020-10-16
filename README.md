@@ -3,10 +3,16 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.021.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.022.apk"><b> DOWNLOAD APK</b></a>
 
-<strong>Sorry for being late.</strong>
-<b>Gomen'nasai</b>
+<p>version 0.022</p>
+<ul>
+    <li>Skip Op button will now skip 1min and 30secs from current position</li>
+    <li>Deleting Bookmarks will not remove favourites</li>
+    <li>Some random crashes fixed</li>
+    <li>Minor bugs fixed</li>
+</ul>
+
 <p>version 0.021</p>
 <ul>
     <li>Android 10 download bug fixed (Android 10 and above users will not be able to change default download location anymore)</li>
