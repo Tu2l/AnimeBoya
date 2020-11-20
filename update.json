@@ -1,7 +1,7 @@
 {
-  "code": "28",
-  "ver": "0.024",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.023.apk",
-  "whatsNew": ["Minor update. IF AUTO UPDATE IS NOTWORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
-  "immediateUpdate":"false"
+  "code": "29",
+  "ver": "0.025",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.025.apk",
+  "whatsNew": ["Source 2 white screen bug fixed. IF AUTO UPDATE IS NOTWORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "immediateUpdate":"true"
 }
