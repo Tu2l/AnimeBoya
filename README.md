@@ -3,7 +3,12 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.024.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.025.apk"><b> DOWNLOAD APK</b></a>
+
+<p>version 0.025</p>
+<ul>
+    <li>Source 2 white screen fixed</li>
+</ul>
 
 <p>version 0.024</p>
 <ul>
