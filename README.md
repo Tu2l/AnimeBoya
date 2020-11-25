@@ -3,35 +3,18 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.025.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.026.apk"><b> DOWNLOAD APK</b></a>
+<hr>
 
-<p>version 0.025</p>
+<b>Note:</b>
+<i>There are some anime which might not load after clicking on it due to invalid links to solve this issue just search the anime using search bar and open it from result.</i>
+
+<p>version 0.026</p>
 <ul>
-    <li>Source 2 white screen fixed</li>
+    <li>Video Player crash fixed</li>
+    <li>Source 3 search bug fixed (loading same anime multiple times while scrolling)</li>
 </ul>
 
-<p>version 0.024</p>
-<ul>
-    <li>Minor internal bugs fixed</li>
-</ul>
-
-<p>version 0.023</p>
-<ul>
-    <li>Minor internal bugs fixed</li>
-</ul>
-
-<p>version 0.022</p>
-<ul>
-    <li>Skip Op button will now skip 1min and 30secs from current position</li>
-    <li>Deleting Bookmarks will not remove favourites</li>
-    <li>Some random crashes fixed</li>
-    <li>Minor bugs fixed</li>
-</ul>
-
-<p>version 0.021</p>
-<ul>
-    <li>Android 10 download bug fixed (Android 10 and above users will not be able to change default download location anymore)</li>
-</ul>
 <p>version 0.02</p>
 <ul>
     <li>A new Download System is added (Segmented downloads are not supported anymore)</li>
