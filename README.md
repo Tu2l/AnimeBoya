@@ -3,33 +3,18 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-0.026.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1-build-210203032757.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
 <b>Note:</b>
 <i>There are some anime which might not load after clicking on it due to invalid links to solve this issue just search the anime using search bar and open it from result.</i>
 
-<p>version 0.026</p>
+<p>version 1-build-210203032757</p>
 <ul>
-    <li>Video Player crash fixed</li>
-    <li>Source 3 search bug fixed (loading same anime multiple times while scrolling)</li>
+    <li>Source 1 issue is resolved for now</li>
+    <li>Versioning of the app is now changed</li>
 </ul>
 
-<p>version 0.02</p>
-<ul>
-    <li>A new Download System is added (Segmented downloads are not supported anymore)</li>
-    <li>Splash Screen redesigned</li>
-    <li>A new Source is added (Source 3), sometimes source 3 can be unstable but the source is very much faster than the other sources</li>
-    <li>SIMKL support added</li>
-    <li>Anime Internet Radio added</li>
-    <li>Support page added</li>
-    <li>SDCard support added (but there are some limitations)</li>
-    <li>New Update system added</li>
-    <li>VideoPlayback speed can be changed now</li>
-    <li>An Opening Skip (1:30 will be skipped) button is added</li>
-    <li>External downloader support added (Go to download settings to turn on)</li>
-    <li>All the newly watched episodes will be automatically synced</li>
-</ul>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
 <p>Follow us on</p>
