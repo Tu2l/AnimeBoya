@@ -3,16 +3,17 @@
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.02-build-210207080550.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.03-build-210209035509.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
 <b>Note:</b>
 <i>There are some anime which might not load after clicking on it due to invalid links to solve this issue just search the anime using search bar and open it from result. If Source 1 is not working then please use Source 4 both sources have same contents.</i>
 
-<p>version 1.02</p>
+<p>version 1.03</p>
 <ul>
-    <li>Source 1 is updated</li>
+    <li>Anime Not Found bug fixed</li>
 </ul>
+
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
 <p>Follow us on</p>
