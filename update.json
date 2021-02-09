@@ -1,7 +1,7 @@
 {
-  "code": "34",
-  "ver": "1.02-build-210207080550",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.02-build-210207080550.apk",
-  "whatsNew": ["Source 1 and 2 updated. IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "code": "35",
+  "ver": "1.03-build-210209035509",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.03-build-210209035509.apk",
+  "whatsNew": ["Anime Not found bug fixed. IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
   "immediateUpdate":"false"
 }
