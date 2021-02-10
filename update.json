@@ -1,7 +1,7 @@
 {
-  "code": "35",
-  "ver": "1.03-build-210209035509",
-  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.03-build-210209035509.apk",
-  "whatsNew": ["Anime Not found bug fixed. IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "code": "36",
+  "ver": "1.031-build-210210100045",
+  "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.031-build-210210100045.apk",
+  "whatsNew": ["WebPlayer episode not loading bug fixed. IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
   "immediateUpdate":"false"
 }
