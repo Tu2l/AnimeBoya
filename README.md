@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/Tu2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <h2><b>UPDATE</b></h2>
 <image src="https://github.com/Tu2l/AnimeBoya/blob/master/App%20icon%202.png" width=100 alt="animeboya">
 <b>Icon designed by The Wise Coconut (Discord Admin)</b>
