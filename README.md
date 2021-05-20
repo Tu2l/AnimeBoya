@@ -1,22 +1,32 @@
 <a href="https://www.buymeacoffee.com/Tu2l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<h2><b>UPDATE</b></h2>
-<image src="https://github.com/Tu2l/AnimeBoya/blob/master/App%20icon%202.png" width=100 alt="animeboya">
-<b>Icon designed by The Wise Coconut (Discord Admin)</b>
+<image src="https://github.com/Tu2l/AnimeBoya/blob/master/20210417_180027.png" width=100 alt="animeboya">
+<b>Icon designed by SAZIDISM</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br11/masterRelease-1.031-build-210210100045.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.04-build-210520135220.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
-<b>Note:</b>
-<i>There are some anime which might not load after clicking on it due to invalid links to solve this issue just search the anime using search bar and open it from result. If Source 1 is not working then please use Source 4 both sources have same contents.</i>
-
-<p>version 1.031</p>
+<p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
+<p>Follow us on</p>
 <ul>
-    <li>Minor WebPlayer bug fixed</li>
+    <li><a href="https://facebook.com/animeboya"><b>Facebook</b></a></li>
+    <li><a href="https://instagram.com/anime_boya"><b>Instagram</b></a></li>
+    <li><a href="https://discord.gg/5kJ9SXC"><b>Discord</b></a></li>
+    <li><a href="https://reddit.com/r/animeboya"><b>Reddit</b></a></li>
 </ul>
-
-
+<p>version 1.04</p>
+<ul>
+    <li>This update might clear episode watch status but the anime will remain same</li>
+    <li>New App Icon (take a look at the about section for credits)</li>
+    <li>Video Player UI changed</li>
+    <li>New source added(Source 5)</li>
+    <li>Press and Holding an episode will toggle the episode watch status </li>
+    <li>Database redesigned</li>
+    <li>WebPlayer Shortcut added</li>
+    <li>Change source from anime screen </li>
+    <li>Minor bug fixes</li>
+</ul>
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
 <p>Follow us on</p>
 <ul>
