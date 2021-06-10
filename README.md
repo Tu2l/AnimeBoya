@@ -4,7 +4,7 @@
 <b>Icon designed by SAZIDISM</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.04-build-210520135220.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.041-build-210610111843.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
@@ -15,27 +15,18 @@
     <li><a href="https://discord.gg/5kJ9SXC"><b>Discord</b></a></li>
     <li><a href="https://reddit.com/r/animeboya"><b>Reddit</b></a></li>
 </ul>
-<p>version 1.04</p>
+<b>NOTE: Known Issue</b>
+<p>The app might crash while trying to download episodes in some devices, if this happens then please enable External Download Option from app settings.
+I am trying to fix this issue as soon as possible.</p>
+<hr>
+<p>version 1.041</p>
 <ul>
-    <li>This update might clear episode watch status but the anime will remain same</li>
-    <li>New App Icon (take a look at the about section for credits)</li>
-    <li>Video Player UI changed</li>
-    <li>New source added(Source 5)</li>
-    <li>Press and Holding an episode will toggle the episode watch status </li>
-    <li>Database redesigned</li>
-    <li>WebPlayer Shortcut added</li>
-    <li>Change source from anime screen </li>
-    <li>Minor bug fixes</li>
+    <li>Episode Watch status toggle fixed</li>
+    <li>Episode Scanner bug fixed</li>
+    <li>Ads are limited</li>
+    <li>Ads are muted by default</li>
+    <li>Source 4 is fixed</li>
 </ul>
-<p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
-<p>Follow us on</p>
-<ul>
-    <li><a href="https://facebook.com/animeboya"><b>Facebook</b></a></li>
-    <li><a href="https://instagram.com/anime_boya"><b>Instagram</b></a></li>
-    <li><a href="https://discord.gg/5kJ9SXC"><b>Discord</b></a></li>
-    <li><a href="https://reddit.com/r/animeboya"><b>Reddit</b></a></li>
-</ul>
-
 
 <br>
 
