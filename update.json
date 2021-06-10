@@ -1,7 +1,7 @@
 {
-  "code": "37",
-  "ver": "1.04-build-210521033344",
+  "code": "38",
+  "ver": "1.041-build-210610111843.apk",
   "downloadLink": "https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.04-build-210521033344.apk",
-  "whatsNew": ["New source added and many more. IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
+  "whatsNew": ["IF AUTO UPDATE IS NOT WORKING THEN PLEASE VISIT https://github.com/Tu2l/AnimeBoya and install manually. Don't forget to grant read/write permission."],
   "immediateUpdate":"true"
 }
