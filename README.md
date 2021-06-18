@@ -4,7 +4,7 @@
 <b>Icon designed by SAZIDISM</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.041-build-210610111843.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.042-build-210618080025.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
@@ -19,13 +19,12 @@
 <p>The app might crash while trying to download episodes in some devices, if this happens then please enable External Download Option from app settings.
 I am trying to fix this issue as soon as possible.</p>
 <hr>
-<p>version 1.041</p>
+    
+<p>version 1.042</p>
 <ul>
-    <li>Episode Watch status toggle fixed</li>
-    <li>Episode Scanner bug fixed</li>
-    <li>Ads are limited</li>
-    <li>Ads are muted by default</li>
-    <li>Source 4 is fixed</li>
+    <li>Splash screen text fixed</li>
+    <li>Download and Streaming error fixed for now</li>
+    <li>All anime list filters fixed </li>
 </ul>
 
 <br>
