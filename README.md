@@ -4,7 +4,7 @@
 <b>Icon designed by SAZIDISM</b>
 
 <h2><b>UPDATE</b></h2>
-<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.042-build-210618080025.apk"><b> DOWNLOAD APK</b></a>
+<a href="https://github.com/Tu2l/AnimeBoya/releases/download/br12/masterRelease-1.043-build-210618123731.apk"><b> DOWNLOAD APK</b></a>
 <hr>
 
 <p>Report bugs and issues at <b>developer.tu2l@gmail.com</b></p>
@@ -20,11 +20,9 @@
 I am trying to fix this issue as soon as possible.</p>
 <hr>
     
-<p>version 1.042</p>
+<p>version 1.043</p>
 <ul>
-    <li>Splash screen text fixed</li>
     <li>Download and Streaming error fixed for now</li>
-    <li>All anime list filters fixed </li>
 </ul>
 
 <br>
